@@ -1,16 +1,11 @@
 ---
 title: "518-Coin Change II"
 date: 2023-08-08
+Difficulty: Medium
+Skills: Dynamic Programming
 ---
 # 518. Coin Change II
 
-Difficulty: Medium
-Skills: Dynamic Programming
-Date: August 8, 2023
-Frequency: 1
-Group: Neetcode
-Mastery: 25
-Notes: 2D dp with bottom up
 
 # Description
 
